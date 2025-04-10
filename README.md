@@ -1,5 +1,6 @@
 # USPS_zip_to_city
-Python script that uses csv files with city/state to obtain the 5-digit postcode from the USPS API
+This is a python script that uses csv files with city/state to obtain the 5-digit postcode from the USPS API. Created with development assistance from ChatGPT. This tool is designated for free use and distribution.
+
 
 Ensure that the csv file to be used as input is in the following format:
 
